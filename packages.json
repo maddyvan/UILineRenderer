@@ -1,0 +1,11 @@
+{
+    "name": "com.maddyvan.uilinerenderer",
+    "version": "1.0.0",
+    "displayName": "UI Line Renderer",
+    "description": "A line renderer for Unity UI",
+    "unity": "2022.3",
+    "author": {
+      "name": "Maddy Van Hulse"
+    }
+  }
+  
